@@ -3,9 +3,9 @@
 <h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me</h1>
 
 <!--Intro start--> 
-- 🔭 I’m currently working on **web development projects using HTML, CSS, JavaScript, and Node.js.**  
+- 🔭 I’m currently working on **web development projects using HTML, CSS, JavaScript, and Java**  
 
-- 🌱 I’m currently learning **Java, React, and SQL to expand my skill set for full-stack development.**  
+- 🌱 I’m currently learning **Java, PHP, and SQL to expand my skill set for full-stack development.**  
 
 - 📚 I’m pursuing a technical degree in **application development**, where I deepen my knowledge in software engineering and programming languages.  
 

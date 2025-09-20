@@ -1,31 +1,31 @@
-<h1 align="center"><b>Hi , I'm Thiago Gonnet </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Thiago Gonnet </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me</h1>
+<h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí</h1>
 
 <!--Intro start--> 
-- 🔭 I’m currently working on **web development projects using HTML, CSS, JavaScript, and Java**  
+- 🔭 Actualmente estoy trabajando en **proyectos de desarrollo web usando HTML, CSS, JavaScript y Java**  
 
-- 🌱 I’m currently learning **Java, PHP, and SQL to expand my skill set for full-stack development.**  
+- 🌱 Actualmente estoy aprendiendo **Java, PHP y SQL para ampliar mis habilidades en desarrollo full-stack.**  
 
-- 📚 I’m pursuing a technical degree in **application development**, where I deepen my knowledge in software engineering and programming languages.  
+- 📚 Estoy cursando una carrera técnica en **desarrollo de aplicaciones**, donde profundizo mis conocimientos en ingeniería de software y lenguajes de programación.  
 
-- 💻 I use **Git and GitHub** for version control and collaboration.  
+- 💻 Utilizo **Git y GitHub** para control de versiones y colaboración.  
 
-- 📫 Feel free to reach me at **thiagogonnet2710@gmail.com**
+- 📫 Puedes contactarme en **thiagogonnet2710@gmail.com**
 <!--Intro end-->
 
 <br><br>
 
-<h1>My Skills Include</h1>
+<h1>Mis habilidades incluyen</h1>
 
-- **Languages**:
+- **Lenguajes**:
     
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>   
     
-- **Front-End Development**:
+- **Desarrollo Front-End**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,13 +33,13 @@
 
 <br>
 
-- **Cloud Hosting**:
+- **Alojamiento en la nube**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
-- **Softwares and Tools**:
+- **Software y herramientas**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -55,7 +55,7 @@
 </p>
 
 <br><br>
-<h1>Connect with me</h1>
+<h1>Conéctate conmigo</h1>
 <p align="center">
 	<a href="mailto:thiagogonnet2710@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/ThiagoGonnet"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -65,7 +65,7 @@
 
 <br><br>
 
-<h2>Github stats:</h2>
+<h2>Estadísticas de Github:</h2>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -76,7 +76,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ThiagoGonnet&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGonnet&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Obtén estadísticas de racha para tu perfil en git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGonnet&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">

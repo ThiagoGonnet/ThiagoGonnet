@@ -3,13 +3,13 @@
 <h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí</h1>
 
 <!--Intro start--> 
-- 🔭 Actualmente estoy trabajando en **proyectos de desarrollo web usando HTML, CSS, JavaScript y Java**  
+- 🔭 **Desarrollador Web en formación**: Actualmente enfocado en el desarrollo de aplicaciones robustas con **Angular** para el frontend y **PHP/Java** para el backend.
 
-- 🌱 Actualmente estoy aprendiendo **Java, PHP y SQL para ampliar mis habilidades en desarrollo full-stack.**  
+- 🌱 **Formación Académica**: Estudiante de la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)** en la UNICEN.
 
-- 📚 Estoy cursando una carrera técnica en **desarrollo de aplicaciones**, donde profundizo mis conocimientos en ingeniería de software y lenguajes de programación.  
+- 🛠️ **Perfil Técnico**: Además del desarrollo, gestiono **TG Informática y Reparaciones**, brindando soporte técnico, diagnóstico de hardware y optimización de sistemas.
 
-- 💻 Utilizo **Git y GitHub** para control de versiones y colaboración.  
+- 🚀 **Proyecto Destacado**: Desarrollador de **HinchadasRank**, un sistema de votación y ranking en tiempo real construido con JavaScript (Fetch API) y bases de datos relacionales.
 
 - 📫 Puedes contactarme en **thiagogonnet2710@gmail.com**
 <!--Intro end-->
